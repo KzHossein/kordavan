@@ -1,7 +1,9 @@
-??????:
+barname:
+
 https://github.com/hiddify/hiddify-next/releases/download/v0.12.3/hiddify-android-arm64.apk
 
 
 
-??????:
+eshterak:
+
 https://www.mendax.shop/yGsVoGrj7uccPtoo5vbP/0d4a0839-bd1b-471c-a8f0-00d73720be20/sub/
